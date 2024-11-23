@@ -10,5 +10,5 @@
 - **Discord** server *(<https://discord.gg/xkq8aZ4zFg>)*
 
 ## ⚡ Projects
-- **Platformer** shooter game with Godot ([repo here](https://github.com/aymeric-devv/godot-platformer-shooter))
+- **Platformer** shooter game with Godot *([repo here](https://github.com/aymeric-devv/godot-platformer-shooter))*
 - **Arduino** advanced autonomous vehicle
