@@ -6,7 +6,7 @@
 - Learn **HTML/CSS/Javascript**
 - Good knowledge in **Arduino**
 - **Minecraft** player and developper
-- <https://youtube.com/@chataignedev?si=8hqjbf1fncBiZIaI>
+- <https://www.youtube.com/@aymeric-devv>
 
 ## ⚡ Projects
 - **Platformer** shooter game with Godot ([repo here](https://github.com/aymeric-devv/godot-platformer-shooter))
