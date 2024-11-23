@@ -8,7 +8,7 @@
 - **Minecraft** player and developper
 > [!TIP]
 > - French **Youtube** channel *[*(link)*](https://www.youtube.com/@aymeric-devv)* 
-> - **Discord** server 📎[(<ins>link</ins>)](https://discord.gg/xkq8aZ4zFg)
+> - **Discord** server [(<ins>link 📎</ins>)](https://discord.gg/xkq8aZ4zFg)
 
 ## ⚡ Projects
 - **Platformer** shooter game with Godot [(*repo*)](https://github.com/aymeric-devv/godot-platformer-shooter)
