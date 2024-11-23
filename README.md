@@ -8,5 +8,5 @@
 - **Minecraft** player and developper
 
 ## ⚡ Projects
-- **Platformer** shooter game with Godot
+- **Platformer** shooter game with Godot ([repo here](https://github.com/aymeric-devv/godot-platformer-shooter))
 - **Arduino** advanced autonomous vehicle
