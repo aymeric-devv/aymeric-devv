@@ -1,5 +1,5 @@
 # Hi, I’m *Aymeric* from France 
-*A student who learn game-dev, web-dev and others*
+### *"A student who learn game-dev, web-dev and others"*
 
 ## ✨ About me 
 - Learn **Godot**/Unity
