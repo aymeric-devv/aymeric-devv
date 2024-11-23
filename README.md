@@ -7,8 +7,8 @@
 - Good knowledge in **Arduino**
 - **Minecraft** player and developper
 > [!TIP]
-> - French **Youtube** channel *(<https://www.youtube.com/@aymeric-devv>)* 
-> - **Discord** server *(<https://discord.gg/xkq8aZ4zFg>)*
+> #####- French **Youtube** channel *(<https://www.youtube.com/@aymeric-devv>)* 
+> #####- **Discord** server *(<https://discord.gg/xkq8aZ4zFg>)*
 
 ## ⚡ Projects
 - **Platformer** shooter game with Godot *([repo here](https://github.com/aymeric-devv/godot-platformer-shooter))*
