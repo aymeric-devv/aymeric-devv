@@ -6,7 +6,7 @@
 - Learning **HTML/CSS/Javascript**
 - Good knowledge in **Arduino**
 - **Minecraft** player and developper
-- *Visual Studio Code*
+- **Visual Studio Code** user
 > [!TIP]
 > - French **Youtube** channel ([*youtube*](https://www.youtube.com/@aymeric-devv)) 
 > - **Discord** server ([*discord*](https://discord.gg/xkq8aZ4zFg))
