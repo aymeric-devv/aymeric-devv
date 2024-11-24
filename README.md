@@ -14,3 +14,6 @@
 ## ⚡ Projects
 - **Platformer** shooter game with Godot ([*repo*](https://github.com/aymeric-devv/godot-platformer-shooter))
 - **Arduino** advanced autonomous vehicle
+
+## 😙 Sats
+![aymeric-devv's Stats](https://github-readme-stats.vercel.app/api?username=aymeric-devv&theme=dark&show_icons=true&hide_border=false&count_private=false)
